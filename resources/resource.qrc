@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/ranks">
+        <file>../images/beginner.png</file>
+        <file>../images/learner.png</file>
+        <file>../images/prodigy.png</file>
+        <file>../images/risingstar.png</file>
+        <file>../images/scholar.png</file>
+    </qresource>
+    <qresource prefix="/assets">
+        <file>../images/loading.gif</file>
+    </qresource>
+</RCC>
